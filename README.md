@@ -29,10 +29,12 @@ I utilized **GitHub Actions** to automate the build and deployment process. This
 ## Screenshots
 
 ### App Screenshots:
- 
+ <img width="858" height="869" alt="image" src="https://github.com/user-attachments/assets/1afef5a6-7628-4dce-b580-5b2a717cf51c" />
+
 *Caption for screenshot 1: Single album addition verification.*
 
- 
+ <img width="1016" height="1281" alt="image" src="https://github.com/user-attachments/assets/c73f9c53-bf9f-47b1-b020-d3967c09d02f" />
+
 *Caption for screenshot 2: Album deletion and collection list view.*
 
 
@@ -53,7 +55,8 @@ During the development of this project, I encountered several challenges, includ
 https://github.com/ST10532964/Task-3 
 ## List of Figures
 
- 
+ <img width="1016" height="1281" alt="image" src="https://github.com/user-attachments/assets/d49ce668-bd82-472d-962f-a4448af0fae5" />
+
 **Figure 1**: Screenshot of single album addition.
 
 
